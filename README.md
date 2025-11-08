@@ -7,7 +7,7 @@
 
 - 🌱 I'm currently learning **Python (Web Development and AI)**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/muhammad-ali-06a110252/](https://www.linkedin.com/in/muhammad-ali-06a110252/)
+
 
 - ⚡ Fun fact **I teach O and A level students**
 
