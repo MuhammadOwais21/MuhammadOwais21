@@ -28,3 +28,8 @@
 </p>
 <!--
 **MuhammadOwais21/MuhammadOwais21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔥 LeetCode Progress
+![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&ext=heatmap)
+
+## 📅 Streak
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MuhammadOwais21&theme=dark)](https://git.io/streak-stats)
