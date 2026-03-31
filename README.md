@@ -26,7 +26,7 @@
 <p align = "center">
 <img src="https://github-readme-stats.vercel.app/api?username=muhammadowais21&show_icons=true&rank_icon=github&theme=default" alt="GitHub Stats" />
 </p>
-<!--## 🔥 LeetCode Progress
+## 🔥 LeetCode Progress
 ![LeetCode Stats](https://leetcard.jacoblin.cool/owais67?theme=dark&ext=heatmap)
 
 ## 📅 GitHub Streak
