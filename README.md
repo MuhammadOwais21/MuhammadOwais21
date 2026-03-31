@@ -26,10 +26,8 @@
 <p align = "center">
 <img src="https://github-readme-stats.vercel.app/api?username=muhammadowais21&show_icons=true&rank_icon=github&theme=default" alt="GitHub Stats" />
 </p>
-<!--
-**MuhammadOwais21/MuhammadOwais21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-## 🔥 LeetCode Progress
-![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&ext=heatmap)
+<!--## 🔥 LeetCode Progress
+![LeetCode Stats](https://leetcard.jacoblin.cool/owais67?theme=dark&ext=heatmap)
 
-## 📅 Streak
+## 📅 GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MuhammadOwais21&theme=dark)](https://git.io/streak-stats)
